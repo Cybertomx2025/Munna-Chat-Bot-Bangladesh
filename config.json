@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "MuNnA",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -8,11 +8,11 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
+  "EMAIL": "cybertomx@gmail.com",
+  "PASSWORD": "munna7890@@##",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌♡┋Տʜɪᴢᴜᴋꫝㅤᥫ᭡",
-  "PREFIX": "!",
+  "BOTNAME": "♡┋MuNnAᥫ᭡",
+  "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
